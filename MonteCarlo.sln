@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonteCarlo", "MonteCarlo\MonteCarlo.csproj", "{FC553885-C34A-4DC7-AAAD-7E87D43EB9B4}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://marketmining.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MonteCarlo\\MonteCarlo.csproj
+		SccProjectName1 = MonteCarlo
+		SccLocalPath1 = MonteCarlo
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC553885-C34A-4DC7-AAAD-7E87D43EB9B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC553885-C34A-4DC7-AAAD-7E87D43EB9B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC553885-C34A-4DC7-AAAD-7E87D43EB9B4}.Debug|x64.ActiveCfg = Debug|x64
+		{FC553885-C34A-4DC7-AAAD-7E87D43EB9B4}.Debug|x64.Build.0 = Debug|x64
+		{FC553885-C34A-4DC7-AAAD-7E87D43EB9B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC553885-C34A-4DC7-AAAD-7E87D43EB9B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC553885-C34A-4DC7-AAAD-7E87D43EB9B4}.Release|x64.ActiveCfg = Release|x64
+		{FC553885-C34A-4DC7-AAAD-7E87D43EB9B4}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
